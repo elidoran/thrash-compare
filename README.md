@@ -45,7 +45,7 @@ It uses `chalk` to color good things green and bad things red.
 123456789012    |          valid |          valid
                 |    optimizable |    optimizable
                 |           0 s  |           0 s  
-                |     2030672 ns |      990117 ns
+                |   2,030,672 ns |     990,117 ns
 (change factor) |     (baseline) |          2.05x
 -------------------------------------------------
 ```
